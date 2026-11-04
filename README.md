@@ -56,6 +56,7 @@ Programas que seguem caminhos diferentes conforme a entrada.
 - `media_das_notas.py`: lê notas e calcula a média
 - `maior_menor_numero.py`: maior e menor valor de uma lista com `max` e `min`
 - `consumo_de_carros.py`: carro mais econômico e litros gastos em 1.000 km
+- `textos_em_maiusculas.py`: mostra só os textos de uma lista mista, em maiúsculas (`isinstance`)
 
 ### 06 · [Matrizes](06-matrizes/)
 - `matriz_3x4_maiores_que_20.py`: valores maiores que 20 e suas posições
